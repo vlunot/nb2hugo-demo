@@ -1,0 +1,3 @@
+[submodule "base/themes/beautifulhugo"]
+	path = base/themes/beautifulhugo
+	url = https://github.com/halogenica/beautifulhugo.git

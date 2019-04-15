@@ -1,0 +1,23 @@
+baseurl = "https://nb2hugo.netlify.com"
+DefaultContentLanguage = "en"
+title = "nb2hugo demo"
+theme = "beautifulhugo"
+
+[Params]
+  subtitle = "Easily convert your Jupyter notebooks into a blog"
+  dateFormat = "January 2, 2006"
+
+[Author]
+  name = "Vincent Lunot"
+  website = "https://www.vincent-lunot.com"
+  email = "vlunot@gmail.com"
+  
+[[menu.main]]
+    name = "Blog"
+    url = ""
+    weight = 1
+
+[[menu.main]]
+    name = "Tags"
+    url = "tags"
+    weight = 3
